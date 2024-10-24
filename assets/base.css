@@ -3595,3 +3595,12 @@ details-disclosure > details {
     transform: translateX(100%) scaleX(0);
   }
 }
+
+@font-face {
+
+  font-family: 'Lora';
+
+  src: url('Lora-Regular.ttf') format('ttf');  
+  }
+
+
